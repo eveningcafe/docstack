@@ -1,0 +1,3 @@
+Defaults:octavia !requiretty
+
+octavia ALL=(root) NOPASSWD:SETENV: /usr/local/bin/copy_file.sh
